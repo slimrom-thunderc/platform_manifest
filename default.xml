@@ -306,7 +306,7 @@
 
   <project path="platform_manifest" name="SlimRoms/platform_manifest" remote="github" revision="jb" />
 <!-- New Additions for slim -->
-  <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="jb" />
+  <project path="vendor/slim" name="SlimRom-for-P500/vendor_slim" remote="github" revision="jb" />
 
   <!-- New Additions from CM and other teams -->
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="jellybean" />
