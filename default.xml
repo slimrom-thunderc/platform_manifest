@@ -177,7 +177,7 @@
   <project path="external/yaffs2" name="SlimRoms/android_external_yaffs2" remote="github" revision="jellybean" />
   <project path="external/zlib" name="SlimRoms/android_external_zlib" remote="github" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="SlimRoms/frameworks_av" remote="github" revision="jellybean" />
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="jellybean" />
   <project path="frameworks/base" name="SlimRoms/frameworks_base" remote="github" revision="jb" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
@@ -199,14 +199,14 @@
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="SlimRoms/hardware_broadcom_wlan" remote="github" revision="jellybean" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
-  <project path="hardware/libhardware" name="SlimRoms/hardware_libhardware" remote="github" revision="jellybean" />
+  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="github" revision="jellybean" />
-  <project path="hardware/msm7k" name="SlimRoms/hardware_msm7k" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/audio" name="SlimRoms/hardware_qcom_audio" remote="github" revision="jb" />
-  <project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/gps" name="SlimRoms/hardware_qcom_gps" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/media" name="SlimRoms/hardware_qcom_media" remote="github" revision="jellybean" />
-  <project path="hardware/ril" name="SlimRoms/hardware_ril" remote="github" revision="jellybean" />
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="github" revision="jb" />
+  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="github" revision="jellybean" />
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="jellybean" />
   <project path="hardware/samsung" name="SlimRoms/hardware_samsung" remote="github" revision="jellybean" />
   <project path="hardware/ti/omap3" name="SlimRoms/hardware_ti_omap3" remote="github" revision="jellybean" />
   <project path="hardware/ti/omap4xxx" name="SlimRoms/hardware_ti_omap4xxx" remote="github" revision="jellybean" />
