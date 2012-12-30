@@ -205,7 +205,7 @@
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="github" revision="jb" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="github" revision="jellybean" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/media" name="SlimRom-for-P500/android_hardware_qcom_media" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/media" name="thekraven/android_hardware_qcom_media" remote="github" revision="slim" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="jellybean" />
   <project path="hardware/samsung" name="SlimRoms/hardware_samsung" remote="github" revision="jellybean" />
   <project path="hardware/ti/omap3" name="SlimRoms/hardware_ti_omap3" remote="github" revision="jellybean" />
