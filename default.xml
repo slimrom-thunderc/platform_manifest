@@ -321,7 +321,6 @@
   <project path="device/lge/p500" name="SlimRom-for-P500/android_device_lge_p500" revision="jellybean" remote="github" />
   <project path="device/lge/thunderc" name="slimrom-thunderc/android_device_lge_thunderc" revision="slimjb" remote="github" />
   <project path="vendor/lge" name="slimrom-thunderc/android_vendor_lge" revision="slimjb" remote="github" />
-  <project path="vendor/lge" name="SlimRom-for-P500/android_vendor_lge" revision="jellybean" remote="github" />
   <project path="kernel/lge/msm7x27" name="lgics/lge-kernel-msm7x27" revision="jellybean" remote="github" />
 
 </manifest>
